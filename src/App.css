@@ -217,7 +217,7 @@ nav ul li a {
     color: #FF6060;
     font-weight: bold;
 }
-@media only screen and(min-width: 768px) {
+@media only screen and (min-width: 768px) {
     .cards {
         flex-direction: column;
         width: 100%;
